@@ -9,7 +9,7 @@ namespace TE_CSHARP
     internal class arrays_intro
     {
         /// <summary>
-        /// array concepts
+        /// array concepts gas
         /// </summary>
         public static void Main()
         {
