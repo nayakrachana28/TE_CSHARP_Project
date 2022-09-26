@@ -8,6 +8,9 @@ namespace TE_CSHARP
 {
     internal class arrays_intro
     {
+        /// <summary>
+        /// array concepts
+        /// </summary>
         public static void Main()
         {
             array_types();
