@@ -35,6 +35,7 @@ namespace TE_CSHARP
         /// Encapuslation-wrapping into a singe function
         /// </summary>
         /// <param name="v"></param>
+        /// constructor
         public encap(int v)
         {
             this.v = v;
